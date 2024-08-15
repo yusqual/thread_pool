@@ -3,7 +3,9 @@
 
 <a herf="https://www.bilibili.com/video/BV1jV411J795/?share_source=copy_web&vd_source=d82b4d9c97f08207c1489029425f087f" title="【线程池工作原理和实现 - 【C语言版 】C/C++】">【线程池工作原理和实现 - 【C语言版 】C/C++】</a>
 
-<a herf="https://www.bilibili.com/video/BV1fw4m1r7cT/?share_source=copy_web&vd_source=d82b4d9c97f08207c1489029425f087f" title="【基于C++11实现的异步线程池【C/C++】】">【基于C++11实现的异步线程池【C/C++】】</a>
+<a herf="https://www.bilibili.com/video/BV1fw4m1r7cT/?share_source=copy_web&vd_source=d82b4d9c97f08207c1489029425f087f" title="【基于C++11实现的异步线程池【C/C++】】"></a>
+
+[【基于C++11实现的异步线程池【C/C++】】](https://www.bilibili.com/video/BV1fw4m1r7cT/?share_source=copy_web&vd_source=d82b4d9c97f08207c1489029425f087f)
 
 ## 环境和工具
     # WSL2 (Ubuntu22.04)
